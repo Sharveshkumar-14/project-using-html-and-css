@@ -1,0 +1,73 @@
+* {
+	box-sizing: border-box;
+}
+.b1{
+	color: black;
+	background-color: white;
+	position: relative;
+	border: 1px solid black;
+	text-align: right;
+	margin: 0px;
+	padding: 0px;
+	height: 20px;
+	width: 20%;
+	left: 80%;
+	align-self: right;
+	align-content: right;
+}
+body{
+	font: 1em Helvetica Neue, Helvetica, Arial, sans-serif;
+	color: white;
+	background-image: linear-gradient(black ,white);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#sec1
+{
+	background-image: url(https://c4.wallpaperflare.com/wallpaper/419/342/435/fire-meat-vegetables-steak-grill-hd-wallpaper-preview.jpg);
+	background-size: cover;
+	height: 350px;
+	width: 350px;
+	border: 1px solid black;
+	margin: 65px;
+	position: relative;
+	top: 120px;
+	display:inline-block;
+	float: left;
+}
+#sec2
+{
+	background-image: url(https://wallpapercave.com/wp/wc1813154.jpg);
+	background-size: cover;
+	height: 350px;
+	width: 350px;
+	border: 1px solid black;
+	margin: 65px;
+	position: relative;
+	top: 120px;
+	display:inline-block;
+	float: left;
+}
+#sec3
+{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCcKLG-J4oMaPnJGehm7As3fzQZEwoSiEbNQ&usqp=CAU);
+	background-size: cover;
+	height: 350px;
+	width: 350px;
+	border: 1px solid black;
+	margin: 65px;
+	position: relative;
+	top: 120px;
+	display:inline-block;
+	float: left;
+}
+#cen
+{
+	background-color: black;
+	color: white;
+}
+#p
+{
+	background-color: black;
+	color: white
+}
